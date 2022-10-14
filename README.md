@@ -1,6 +1,6 @@
-![Class1](../assets/Aula%20-%201.png)
-![Class2](../assets/Aula%20-%202.png)
-![Class3](../assets/Aula%20-%203.png)
+![Class1](./.github/assets/Aula%20-%201.png)
+![Class2](./.github/assets/Aula%20-%202.png)
+![Class3](./.github/assets/Aula%20-%203.png)
 
 ![Roadmap](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/eba1ec06e6bf00f792d9f1f4ca4ce7df1dab9673/Roadmap.svg)
 
